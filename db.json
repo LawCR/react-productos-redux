@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "31111"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja Premium",
+      "precio": "10"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Leche con frutas",
+      "precio": 20,
+      "id": 12
+    },
+    {
+      "nombre": "Torta de jamon premium",
+      "precio": "250",
+      "id": 13
+    },
+    {
+      "nombre": "Jugo de arandanos",
+      "precio": 15,
+      "id": 14
+    }
+  ]
+}
